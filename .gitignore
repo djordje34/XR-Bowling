@@ -252,3 +252,5 @@ _deps
 *.vpc
 *.vpc.sentinel
 *.vpc_crc
+
+VR/Library
