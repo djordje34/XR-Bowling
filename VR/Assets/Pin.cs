@@ -22,8 +22,6 @@ public class Pin : MonoBehaviour
                     audioSource.Play();
                     Console.WriteLine("PLAYING!!!");
                 }
-
-
             }
         }
         else
